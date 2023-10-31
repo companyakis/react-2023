@@ -1,5 +1,4 @@
-Uygulama App.js şimdilik şu duruma geldi:
-
+//App.js son durum
 
 import Todos from './components/Todos';
 import './App.css';
