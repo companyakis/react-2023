@@ -4,6 +4,6 @@ React Yapılacaklar Uygulaması (todo app)
 
 1) npx create-react-app yapilacaklar_uygulamasi
 2) cd yapilacaklar_uygulamasi
-3) npm install ile bağımlılıkların kurulması
+3) npm start
 4) Temel bileşenlerin (component) oluşturulması
 5) nmp start ile projenin çalıştırılması
