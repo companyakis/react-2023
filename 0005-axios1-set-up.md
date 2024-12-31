@@ -4,6 +4,8 @@ npm install json-server
 
 npm install axios
 
+json-server --watch db.json
+
 ![image](https://github.com/user-attachments/assets/5160ab42-8dbd-491b-bf09-a9e1ea30fe73)
 
 Let's create fake data:
