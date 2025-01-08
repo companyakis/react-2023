@@ -1,6 +1,6 @@
 import { configureStore } from '@reduxjs/toolkit'
 
-import yearReducer from "..redux/yearSlice"
+import yearReducer from "../redux/yearSlice"
 
 export const store = configureStore({
     reducer: {
